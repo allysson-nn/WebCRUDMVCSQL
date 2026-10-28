@@ -27,7 +27,7 @@ Trata-se de um projeto de CRUD (Create, Read, Update, Delete) com banco de dados
 3. Clone este repositório usando o seguinte comando no terminal (Prompt de comando ou PowerShell):
 
     ```shell
-    git clone https://github.com/AllyssonAntonucci/WebCRUDMVCSQL.git
+    git clone https://github.com/allysson-nn/WebCRUDMVCSQL.git
     ```
 
 4. Antes de compilar o projeto no Visual Studio, abra o arquivo `Program.cs` e substitua a linha de código:
